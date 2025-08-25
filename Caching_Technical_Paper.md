@@ -64,5 +64,5 @@ smoother user experiences.
 
 ## References
 
--   [MDN Web Docs - HTTP Caching](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching)\
--   [GeeksforGeeks - Caching in System Design](https://www.geeksforgeeks.org/caching-system-design-concept/)
+-   [MDN Web Docs - HTTP Caching](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching)
+-   [GeeksforGeeks - Caching in System Design](https://www.geeksforgeeks.org/system-design/caching-system-design-concept-for-beginners/)
