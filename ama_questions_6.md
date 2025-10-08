@@ -1,4 +1,4 @@
-# AMA Answers
+# AMA 
 
 ### 1. What’s the difference between `&&` and `;` in command chaining?
 In command-line interfaces, the `&&` operator executes the second command only if the first one succeeds, meaning it has an exit status of zero. On the other hand, the semicolon (`;`) simply separates commands, allowing the next command to execute regardless of whether the previous one fails or succeeds. This makes `&&` useful for dependent operations, while `;` is ideal for sequential independent commands.
